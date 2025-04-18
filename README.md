@@ -1,6 +1,6 @@
-# DoAn Chuyen Nganh
+# 3119410412 - Phùng Minh Thiện
 
-Đồ án môn Đồ Án Chuyên Ngành
+Môn: Đồ Án Chuyên Ngành
 Đề tài: Xây dựng trang web bán điện thoại.
 
 Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
